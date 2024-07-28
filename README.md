@@ -9,7 +9,7 @@ The Blender Community Discord Server is a hub for Blender users of all skill lev
 ### What You'll Find Here
 
 - **Discord Server Development Sheet**: Collaborate on group projects or find partners for your own.
-- **Discord Server FAQ repo**
+- **Discord Server FAQ sheet**
 
   For any further question please seek out one of the Blender Communnity support staff.
 
