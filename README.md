@@ -12,3 +12,7 @@ The Blender Community Discord Server is a hub for Blender users of all skill lev
 - **Discord Server FAQ repo**
 
   For any further question please seek out one of the Blender Communnity support staff.
+
+
+
+  https://discord.gg/PHKFhZKn
